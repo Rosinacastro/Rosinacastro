@@ -24,13 +24,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
-  <div>
+  <div style="display: inLine_block"><br>
   <img align="center" alt="Rosi" height="30" width="40" src="https://icons/androidstudio/androidstudio-original-wordmark.svg">
-  </div>
-  
-  <div>
-.devicon-bitbucket-original-wordmark:before 
-  content: "\ea5a";
   </div>
 ##
   
