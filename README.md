@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
   <img align="right" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   <div>
-  <img align="center" alt="Rosi" height="30" width="40" src="https://icons/androidstudio/androidstudio-original-wordmark.svg>
+  <img align="center" alt="Rosi" height="30" width="40" src="https://icons/androidstudio/androidstudio-original-wordmark.svg">
   </div>
 ##
   
