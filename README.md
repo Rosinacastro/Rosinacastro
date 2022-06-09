@@ -27,6 +27,11 @@ You can click the Preview link to take a look at your changes.
   <div>
   <img align="center" alt="Rosi" height="30" width="40" src="https://icons/androidstudio/androidstudio-original-wordmark.svg">
   </div>
+  
+  <div>
+.devicon-bitbucket-original-wordmark:before 
+  content: "\ea5a";
+  </div>
 ##
   
 <div>
