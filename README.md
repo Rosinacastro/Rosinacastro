@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rosinacastro
-- 👀 I’m interested in technologies to backend.
+- 👀 I’m interested in new technologies to backend.
 - 🌱 I’m currently learning angular and react.
 - 💞️ I’m looking to collaborate in projects from company.
 - 📫 How to reach me in rosicastro1@live.com.
