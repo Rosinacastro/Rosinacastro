@@ -2,7 +2,7 @@
 - 👀 I’m interested in new technologies to backend.
 - 🌱 I’m currently learning angular and react.
 - 💞️ I’m looking to collaborate in projects from company.
-- 📫 How to reach me in rosicastro1@live.com.
+- 📫 How to reach me in rosinac17@gmail.com.
 
 <!---
 Rosinacastro/Rosinacastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
